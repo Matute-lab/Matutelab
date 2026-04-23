@@ -93,7 +93,7 @@ This folder holds the markdown files that describe the formatting for each page.
 the pages to edit if you need to change the text for a page. Anything written in blank space on the markdown file will be displayed on the webpage. 
 Certain characters cause text to display differently. **Two asterisks** denote bolded text, and *single asterisks* are for italics. ## two hashtags ## create a header.
 If you look closely, you can see where the data from _data is being accessed and filled in some of the pages.[text](link.com) is used to hyperlink a link to a string of text.
-finally, similar to the _includes and _layouts folders, any important HTML syntax will be commented by me (text inside this <1-- text -->) to mark any important things that could 
+finally, similar to the _includes and _layouts folders, any important HTML syntax will be commented by me (text inside this <(!)-- text -->) to mark any important things that could 
 need editing in the future.
 
 ## images ##
