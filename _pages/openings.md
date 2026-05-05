@@ -8,17 +8,8 @@ permalink: /vacancies
 
 # Openings
 
-**We are not currently looking for new members!**
+We thank you for your interest in our lab. If you are considering joining the lab at any level (undergrad/post-Bac/PhD/Post-Doc), please contact Dr. Matute directly at dmatute@unc.edu. We are often busy, so we appreciate your patience while we reply to your inquiries. Thank you!
 
-We thank you for your interest in our lab, but we are currently at capacity. Feel free to check this page periodically for updates.
-
-### Applications for PhD and Postdoc positions
-
-*fill with instructions from Daniel*
-
-### Other Lab Positions 
-
-*fill with instructions from Daniel*
 
 <!-- 
 <figure>
